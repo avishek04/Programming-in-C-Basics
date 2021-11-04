@@ -1,9 +1,21 @@
-//
 //  marioLess.c
-//  
-//
-//  Created by Avishek Choudhury on 04/11/21.
-//
+
+/*
+Input:
+$ ./mario
+Height: 8
+
+Output:
+        #
+       ##
+      ###
+     ####
+    #####
+   ######
+  #######
+ ########
+*/
+
 #include <cs50.h>
 #include <stdio.h>
 
